@@ -37,7 +37,7 @@
 					  <muleVersion>4.4.0</muleVersion>
 					  <username>sandidutt</username>
 					  <password>Sandi!12.34</password>
-					  <applicationName>sslcertificate_proj</applicationName>
+					  <applicationName>sslcertificateProj</applicationName>
 					  <environment>Sandbox</environment>
 					  <region>us-east-1</region>
 					  <workers>1</workers>
