@@ -35,8 +35,8 @@
 					<cloudHubDeployment>
 					  <uri>https://anypoint.mulesoft.com</uri>
 					  <muleVersion>4.4.0</muleVersion>
-					  <username>sandidutt</username>
-					  <password>Sandi!12.34</password>
+					  <username>devarshi75</username>
+					  <password>Devarshi1234</password>
 					  <applicationName>sslcertificateProj</applicationName>
 					  <environment>Sandbox</environment>
 					  <region>us-east-1</region>
